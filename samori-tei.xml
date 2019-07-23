@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>ALIMAMA SAMORI KO-MA: (Histoire l'imam Samori)</title>
+            <author>Amadou Kouroubari</author>
+            <editor>Maurice Delafosse</editor>
+         </titleStmt>
+         <publicationStmt>
+            <p>This is an XML version of one section of Maurice Delafosse's 1901 publication.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>This is a digital XML version extracted from the following publication: "Delafosse,
+               Maurice. 1901. Essai de manuel pratique de la langue mandé ou mandingue : étude
+               grammaticale du dialecte dyoula : vocabulaire français-dyoula - histoire de Samori en
+               mandé : étude comparée des principaux dialectes mandé. Paris: Ernest Leroux.
+               http://gallica.bnf.fr/ark:/12148/bpt6k5440988h."</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <pb n="146">
+         <front>
+            <titlePage>
+               <titlePart type="main">ALIMAMA SAMORI KO-MA</titlePart>
+               <titlePart type="alt" xml:lang="fr">Histoire de l'Imam Samori</titlePart>
+            </titlePage>
+         </front>
+      </pb>
+      
+   </text>
+</TEI>
