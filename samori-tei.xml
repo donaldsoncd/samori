@@ -23,14 +23,45 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <pb n="146">
+      <pb n="143">
          <front>
             <titlePage>
-               <titlePart type="main">ALIMAMA SAMORI KO-MA</titlePart>
-               <titlePart type="alt" xml:lang="fr">Histoire de l'Imam Samori</titlePart>
+               <titlePart type="desc">TROISEME PARTIE</titlePart>
+               <titlePart type="main">HISTOIRE DE SAMORI</titlePart>
+               <titlePart type="alt">(Texte dyoula)</titlePart>
+               <titlePart type="desc">AVEC VOCABULAIRE DES MOTS CONTENUS DANS LE TEXTE</titlePart>
             </titlePage>
          </front>
       </pb>
-      
+      <pb n="144"/>
+      <pb n="145"/>
+      <front>
+         <titlePage>
+            <titlePart type="main">ALIMAMA SAMORI KO-MA</titlePart>
+            <titlePart type="alt" xml:lang="fr">Histoire de l'Imam Samori</titlePart>
+            <titlePart type="desc">par</titlePart>
+            <titlePart type="desc">AMADOU KOUROUBARI</titlePart>
+         </titlePage>
+      </front>
+      <div type="ack">AVERTISSEMENT</div>
+      <p>Le texte mandé qui va suivre m'a été dicté en 1899-1900 au poste de Kofikro (Côte d'Ivoire)
+         par un Dyoula nommé Amadou Kouroubari, originaire de Dabakala dans le Guimini ou Djimini.
+         Le dialecte mandé dont ce texte donne un échantillon est donc le dialecte dyoula, tel qu'il
+         est parlé couramment dans le Guimini et la région du Kong. Ce dialecte diffère très peu
+         d'ailleurs des autres dialectes principaux de la langue mandé, notamment du malinké et du
+         bamana (ou bambara du Haut-Sénégal et de Ségou). </p>
+      <p> Amadou Kouroubari n'a été témoin que d'une partie des événements qu'il raconte; mais il
+         entretenait des relations avec plusieurs de ses compatriotes voyageant dans la Boucle du
+         Niger, et cela lui a permis de connaître d'une façon précise beaucoup de faits qui pourtant
+         se sont déroulés très loin de son pays. </p>
+      <p> On remarquera que son histoire de Samori concorde d'une façon remarquable, tant pour la
+         succession chronologique des événe-- ments que pour le détail des faits, avec les
+         renseignements qui <!--</pb n="146">-->
+         <!--         How do I encode a page break amidst a paragraph?
+--> nous ont été donnés par
+         MM. Péroz' et Binger' et avec les rap- ports officiels de nos colonies du Soudan et de la
+         Côte d'Ivoire, renseignements et rapports qui ont été utilisés par M. Mévil pour la
+         rédaction de son livre paru en 1899'. </p>
+
    </text>
 </TEI>
