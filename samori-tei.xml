@@ -14,11 +14,11 @@
             <p>This is an XML version of one section of Maurice Delafosse's 1901 publication.</p>
          </publicationStmt>
          <sourceDesc>
-            <p>This is a digital XML version extracted from the following publication: "Delafosse,
-               Maurice. 1901. Essai de manuel pratique de la langue mandé ou mandingue : étude
-               grammaticale du dialecte dyoula : vocabulaire français-dyoula - histoire de Samori en
-               mandé : étude comparée des principaux dialectes mandé. Paris: Ernest Leroux.
-               http://gallica.bnf.fr/ark:/12148/bpt6k5440988h."</p>
+            <p>This is a digital XML adaptation of Part III of the following publication:
+               "Delafosse, Maurice. 1901. Essai de manuel pratique de la langue mandé ou mandingue :
+               étude grammaticale du dialecte dyoula : vocabulaire français-dyoula - histoire de
+               Samori en mandé : étude comparée des principaux dialectes mandé. Paris: Ernest
+               Leroux. http://gallica.bnf.fr/ark:/12148/bpt6k5440988h."</p>
          </sourceDesc>
       </fileDesc>
       <!--      ADD langDesc
@@ -90,28 +90,67 @@
          <div xml:lang="man" type="chapter">
             <pb n="147"/>
             <head type="original">Samori a gtyu-tigè, a bo-ñya-ra.</head>
-            <head type="interpretation">Samori à ju-tigɛ, à bonyara</head>
-            <ab>
-               <foreign xml:lang="ar">Bismilldhi 'rrahmdni 'rrahimi. Alhamdu lilldhi rabbi Udlamind.
-                  Salla Alldhii ala sayyidina Mohammadi iva ahlihiwa sallama tasli- man*<note n="1"
-                     >Le début de ce récit est en arabe et veut dire: « Au nom de Dieu le Clément,
-                     le Miséricordieux. Louange a Dieu le maître des mondes. Que Dieu binisse notre
+            <head type="interpretation">Samori à ju-tigɛ, à bònyara</head>
+            <head type="translation"> Samori's birth and childhood </head>
+            <ab type="original">
+               <foreign xml:lang="ar">Bismillâhi 'rrahmâni 'rrahimi. Alhamdu lillâhi rabbi
+                  'lâlamina. Salla Allâhu ala sayyidina Mohammadi wa ahlihi wa sallama
+                     tasliman<note n="1" anchored="true" place="bottom" type="MD">Le début de ce
+                     récit est en arabe et veut dire: « Au nom de Dieu le Clément, le
+                     Miséricordieux. Louange a Dieu le maître des mondes. Que Dieu binisse notre
                      seigneur Mohammed et sa famille et leur donne le salut! »</note></foreign></ab>
          </div>
          <div>
             <ab type="original"> Ni torho bè Amadu Kurubari, ar ka ni uro Dawakala Gimini ra.
-               Nanzara kyè a Kofidugu sigi a ka ni dari ni ko-ma fô a ye : alimama Samori
-               Ibnu-Lafia <note type="MD" n="2"> Ibnu-Lafia, « fils de Lafla » ; ibnu est un
-                  mot arabe.</note> ko-ma; n ga a fô a ye </ab>
-            <ab type="interpretation">Ne tɔgɔ bɛ Amadu Kurubari, ari kà ne woro Dawakala Gimina ra. Nansarakɛ, à Kofidugu-sigi, à kà ne dari n ye kuma fɔ à ye: Alimami Samori kuma; n kà à fɔ à ye</ab>
-            <ab type="translation" xml:lang="en">
-               My name is Amadu Kurubari. They gave birth to me in Dawakala Gimini. This Whiteman, while in Kofidugu, he beseeched me to tell him a tale: the tale of Alimami Samori; I told it to him.
-            </ab><pb n="148"/></div>
-         
-         
-         
-         
-         
+               Nanzara kyè a Kofidugu sigi a ka ni dari ñi ko-ma fò a ye : alimama <foreign
+                  xml:lang="ar" rend="italics">Samori Ibnu-Lafia </foreign><note type="MD" n="2">
+                  Ibnu-Lafia, « fils de Lafla » ; ibnu est un mot arabe.</note> ko-ma; n ga a fô a
+               ye :</ab>
+            <ab type="interpretation">Ne tɔgɔ bɛ Amadu Kurubari, ari kà ne woro Dawakala Gimina ra.
+               Nansarakɛ, à Kofidugu-sigi, à kà ne dari n ye kuma fɔ à ye: Alimami Samori kuma;
+               n kà à fɔ à ye.</ab>
+            <ab type="translation" xml:lang="en"> My name is Amadu Kurubari. They gave birth to me
+               in Dawakala Gimini. This Whiteman, while in Kofidugu, he beseeched me to tell him a
+               tale: the tale of Alimami Samori; I told it to him. </ab>
+            <pb n="148"/>
+            <ab type="original"> Samori a urra Sanãkoro ra <note n="1" place="bottom"
+                  anchored="true" type="MD"> Samori naquit sans doute vers 1830 ou 1835. — D'après
+                  M. Binger, Samori serait né, non à Sanankoro, mais à Bissandougou. </note>, dugu
+               mi na ar a kiri Koniã. A fa Mãnde-ñga lo, ar a kiri Lafia Ture ; a bè farha-ndẽ.
+               A na Koniã-ñga muso lo, ar a kiri Masorona Kamara; ar ko muso mi a bè ñi-ma. </ab>
+            <ab type="interpretation"> Sámòri, à worora Sanankoro ra, dugu min na, ari ye a kiri
+               Koɲan. À fa, Mandenka lo, ari ye à kiri Lafia Ture; à bɛ fangantan. À na,
+               Koɲanmuso lo. Ari ye à kiri Masorona Kamara; ari ko muso min, à bɛ ɲiman. </ab>
+            <ab type="translation"> Samori was born in Sanankoro in a land that they call Konya. His
+               father was a Maninka. They called him Lafia Ture. He was a poor man. His mother, she
+               was Konya. They called her Masorona Kamara. People said she was a good woman. </ab>
+            <ab> La mi na, kù-tigi ba a bè ta, ar a kiri Sori Burama, a bè Fode dS; akerè-kè lô
+               dyugu-kè, Konià-nga-ru ar byè sira a ïiya. Sori Burama a ka marfa-tigi-ru tyi, ar ka
+               tarha ar gyô-u mina. Ar sa- fari-kè-barha-ru ye ar wuro doni ta ar bè tarha ra
+               Sanàkoro. Ma- sorona a bè la anc a kyè ane Samori. Marfa-tigi ar ka marfa tyi, ar ka
+               kyè byè farha; katigi ar ka muso-ru mna, ar ka dê-u mnaf ar ka wuro mna. Samori a
+               borra gyona-gyona, ar ti se ka a mna. </ab>
+            <ab> Ar ka Masorona ferè, ar ka a ye a bè lii-ma, ar ka a ta ar tarha ra Burama fè-so,
+               ar ka a fô a ye : « Muso do ye, ani ka a la, ani na na ka a di i ma, e-ta lo. » </ab>
+            <ab> La mi na Samori bilà-koro tè tugu, a ka gyu-tigè kursi-tigi lo, a bè kà-mbere'. A
+               ka sye-ko a kwo, a tarha ra Sanàkoro ra, a ka a fô Sanàkoro-nga ye : « Ar ka m va
+               farha, ar ka n na mina, ar ka a ta ka tarha Burama fè-so, a bè a gyô. Aluru ar tarha
+               ka sorô, ar Burama dari a n na to. » Sanàkoro morhô-ru ar ka a fô a ye. « E gyô-ne
+               lo? fôndô tè i fè : mune-kato ani tarha ka e ko-ma fô Burama ye? » La mi na Samori
+               kasi ra dyugu-kè. </ab>
+            <ab> Katigi a-lele a tarha ra Sori Burama fwo. La mi na Burama a sigi-ra Mandi-na
+               Wuro-koro ra. Samori, sd dô t'a Te, sàni t'a fè, a ti se ka sd sà, a larha-ma. </ab>
+            <ab> A tarha-ma la kele, ane la kele tugu, so tè va, morhô tè ya, Burama marfa-tigi ar
+               ka kerè-kè wolo, dugu-tigi byè ar ka bori tu ra. A ma fùndô ye ka a domû. A larha-ma
+               la word-mvla, a ma do- mu-ni-kè. </ab>
+            <ab> A dô na Mandi-na. a ka a fô Sori Burama ye : « M va, e ni la, ni e-ta gyô lo. X na,
+               a ka ni uro, a ma di ni a-le e-ta gyô lo, a ma di ni n na a bè gyô; i a to, a tarha a
+               dugu ra tugu. » Sori Burama a </ab>
+            <note n="2" place="bottom" anchored="true" type="MD"> Samori pouvait avoir alors de
+               quinze à vingt ans: on était alors vraisembla- blement en l'année 1850. . </note>
+         </div>
+
+
          <!--FORMAT TO BE COPIED FOR NEW PARAGRAPHS ETC
          <div type="chapter">
             <pb/>
