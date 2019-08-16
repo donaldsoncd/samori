@@ -34,17 +34,21 @@
             <ab type="original">
                <foreign xml:lang="ar">Bismillâhi 'rrahmâni 'rrahimi. Alhamdu lillâhi rabbi
                   'lâlamina. Salla Allâhu ala sayyidina Mohammadi wa ahlihi wa sallama
-                     tasliman<note n="1" anchored="true" place="bottom" type="MD">Le début de ce
-                     récit est en arabe et veut dire: « Au nom de Dieu le Clément, le
-                     Miséricordieux. Louange a Dieu le maître des mondes. Que Dieu bénisse notre
-                     seigneur Mohammed et sa famille et leur donne le salut! »</note></foreign></ab>
+                     tasliman</foreign><anchor xml:id = "A001" corresp = "#N001">1</anchor></ab>
          </div>
          <div>
             <ab type="original"> Ni torho bè Amadu Kurubari, ar ka ni uro Dawakala Gimini ra.
                Nanzara kyè a Kofidugu sigi a ka ni dari ñi ko-ma fò a ye : alimama <foreign
-                  xml:lang="ar" rend="italics">Samori Ibnu-Lafia </foreign><note n="2"
-                  place="bottom" anchored="true" type="MD"> Ibnu-Lafia, « fils de Lafla » ; ibnu est
+                  xml:lang="ar" rend="italics">Samori Ibnu-Lafia</foreign><anchor xml:id = "A002" corresp = "#N002">2</anchor>
+
+									<note xml:id = "N001" target = "A001" n="1" anchored="true" place="bottom" type="MD">Le début de ce
+									récit est en arabe et veut dire: « Au nom de Dieu le Clément, le
+									Miséricordieux. Louange a Dieu le maître des mondes. Que Dieu bénisse notre
+									seigneur Mohammed et sa famille et leur donne le salut! »</note>
+
+									<note xml:id = "N002" target = "A002" n="2" anchored="true" place="bottom" type="MD"> Ibnu-Lafia, « fils de Lafla » ; ibnu est
                   un mot arabe.</note> ko-ma; n ga a fô a ye :</ab>
+
             <ab type="interpretation">Nê tɔ́gɔ bɛ́ Amadu Kurubari, àrí kà ne wóro Dawakala
                Gimina rá. Nànsarakɛ́, à Kofidugu-sigi, à kà nê dári ń yé kúma fɔ́ à yé:
                Alimami Samori kúma; ń kà à fɔ́ à yé.</ab>
