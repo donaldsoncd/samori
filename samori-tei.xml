@@ -36,9 +36,9 @@
 					Ni torho bè Amadu Kurubari, ar ka ni uro Dawakala Gimini ra. Nanzara kyè a Kofidugu sigi a ka ni dari ñi ko-ma fò a ye : alimama
 					<foreign xml:lang="ar" rend="italics">Samori Ibnu-Lafia</foreign><anchor xml:id="A002" corresp="#N002"/>
 
-					<note xml:id="N001" target="A001" n="1" anchored="true" place="bottom" type="MD">Le début de ce récit est en arabe et veut dire: « Au nom de Dieu le Clément, le Miséricordieux. Louange a Dieu le maître des mondes. Que Dieu bénisse notre seigneur Mohammed et sa famille et leur donne le salut! »</note>
+					<note xml:id="N001" target="#A001" n="1" anchored="true" place="bottom" type="MD">Le début de ce récit est en arabe et veut dire: « Au nom de Dieu le Clément, le Miséricordieux. Louange a Dieu le maître des mondes. Que Dieu bénisse notre seigneur Mohammed et sa famille et leur donne le salut! »</note>
 
-					<note xml:id="N002" target="A002" n="2" anchored="true" place="bottom" type="MD">
+					<note xml:id="N002" target="#A002" n="2" anchored="true" place="bottom" type="MD">
 						Ibnu-Lafia, « fils de Lafla » ; ibnu est un mot arabe.</note>
 					ko-ma; n ga a fô a ye :</ab>
 
@@ -52,7 +52,7 @@
 					Samori a urra Sanãkoro ra
 					<anchor xml:id="A003" corresp="#N003"/>, dugu mi na ar a kiri Koniã. A fa Mãnde-ñga lo, ar a kiri Lafia Ture ; a bè farha-ndẽ. A na Koniã-ñga muso lo, ar a kiri Masorona Kamara; ar ko muso mi a bè ñi-ma.
 				</ab>
-				<note xml:id="N003" target="target" "A003" n="1" place="bottom" anchored="true" type="MD">
+				<note xml:id="N003" target="#A003" n="1" place="bottom" anchored="true" type="MD">
 					Samori naquit sans doute vers 1830 ou 1835. — D'après M. Binger, Samori serait né, non à Sanankoro, mais à Bissandougou.
 				</note>
 				<ab type="interpretation">
@@ -77,19 +77,19 @@
 					àri wòrodoni tà àri bɛ́ tágara Sanankoro. Masorona, à bɛ táa àni à kyɛ̀ àni Samori. Marifatigiw<anchor xml:id="A011" corresp="#N011"/>, àri kà màrifa cí, àri kà kyɛ̀ byɛ́ fàga; katigi àri kà mùsoru mìna, àri kà dénw mìna, àri wòro mìna. Samori, à bɔ́ra jóona-joona, àri tɛ́ sé kà à mìna.
 				</ab>
 
-				<note xml:id="N004" target="A004" type="CD">AS and MD give possiblity that "min" in Kong Jula is a demonstrative (that is, a cognate of "nin" in standard Jula)</note>
-				<note xml:id="N005" target="A005" type="CD">The word "kùntigi" ('chief') is clear, but the rest of the sentence is hard to interpret. It seems that "kùntigi" refers to Sori Burama and that "-ba" is the augmentative suffix. In that case though, "a
+				<note xml:id="N004" target="#A004" type="CD">AS and MD give possiblity that "min" in Kong Jula is a demonstrative (that is, a cognate of "nin" in standard Jula)</note>
+				<note xml:id="N005" target="#A005" type="CD">The word "kùntigi" ('chief') is clear, but the rest of the sentence is hard to interpret. It seems that "kùntigi" refers to Sori Burama and that "-ba" is the augmentative suffix. In that case though, "a
 					bè ta" becomes hard to interpret since MD only views "ta" as the 'to take'. Alternatively, MD may have mistranscribed "táa" ('to go')</note>
-				<note xml:id="N006" target="A006" anchored="true" type="CD">Here it is unclear if it is "Fodeden" ('child of a fode') or "Fode dén" ('child of a man named Fode'). MD lists "Fode" in his lexicon as only being a personal name of a man and doesn't
+				<note xml:id="N006" target="#A006" anchored="true" type="CD">Here it is unclear if it is "Fodeden" ('child of a fode') or "Fode dén" ('child of a man named Fode'). MD lists "Fode" in his lexicon as only being a personal name of a man and doesn't
 					mention that it originally comes from a title for learned Quranic scholars who have reached a particular level or erudition which can vary depending on the region.
 				</note>
-				<note xml:id="N007" target="A007" type="CD">Potentially one single possessive noun phrase followed by the adverb "júgukɛ"</note>
-				<note xml:id="N008" target="A008" type="CD">Seems to be "bɛɛ" ('all') in standard Jula and Bambara, but in that case there seems to be no predicate marker. MD may have therefore switched "bɛ́" to "byɛ́"</note>
-				<note xml:id="N009" target="A009" type="CD">MD glosses this as
+				<note xml:id="N007" target="#A007" type="CD">Potentially one single possessive noun phrase followed by the adverb "júgukɛ"</note>
+				<note xml:id="N008" target="#A008" type="CD">Seems to be "bɛɛ" ('all') in standard Jula and Bambara, but in that case there seems to be no predicate marker. MD may have therefore switched "bɛ́" to "byɛ́"</note>
+				<note xml:id="N009" target="#A009" type="CD">MD glosses this as
 					<foreign xml:lang="fr">commerçant; colporteur</foreign>
 					and states that "safari" means 'commerce'. There are no clear cognates in AS, Malidaba or Bamadaba. It could potentially be his misinterpretation of "sànnifeere"</note>
-				<note xml:id="N010" target="N010" type="cd">Kong Jula's habitual marker "ye" most likely</note>
-				<note xml:id="xml:id" "N011" target="A011" type="CD">MD doesn't pluralize this noun</note>
+				<note xml:id="N010" target="#N010" type="cd">Kong Jula's habitual marker "ye" most likely</note>
+				<note xml:id="N011" target="#A011" type="CD">MD doesn't pluralize this noun</note>
 
 				<ab type="translation">At the time there was a big chief, they called him Sori Burama. He was the son of "Fode". Because of his knowledge of combat, all the people of Koɲan were afraid of him. Sori Burama dispatched his riflemen. They went to get
 					themselves slaves. Some itinerant traders that at the time would transport kola nuts were headed to Sanankoro. Masorona was traveling along with her husband and Samori. The riflemen shot their guns, they killed all the men and they took all the
