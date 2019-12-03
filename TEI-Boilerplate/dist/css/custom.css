@@ -1,2 +1,11 @@
 /* Place project-specific CSS here */
 
+/* Make the original segments hidden when viewing in web*/
+ab[type="original"] {
+  visibility: hidden;
+}
+
+/* Make the translation segments appear in italics*/
+ab[type="translation"] {
+  font-style: italic;
+}
