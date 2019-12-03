@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
 				<title>ALIMAMA SAMORI KO-MA: (Histoire l'imam Samori): A critical edition and translation </title>
 				<author>Amadou Kouroubari</author>
-				<editor xml:id="MD">Maurice Delafosse</editor>
-				<principal xml:id="CD">Coleman Donaldson</principal>
+				<editor xml:id "MD">Maurice Delafosse</editor>
+				<principal xml:id "CD">Coleman Donaldson</principal>
 			</titleStmt>
 			<publicationStmt>
 				<p>This is an XML version of one section of Maurice Delafosse's 1901 publication.</p>
@@ -20,6 +19,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<!-- ADD langDesc -->
+		<
 	</teiHeader>
 	<text>
 		<body>
@@ -78,7 +78,7 @@
 					Ar ka Masorona ferè, ar ka a ye a bè lii-ma, ar ka a ta ar tarha ra Burama fè-so, ar ka a fô a ye : « Muso do ye, ani ka a la, ani na na ka a di i ma, e-ta lo. »
 				</ab>
 				<ab>
-					La mi na Samori bilà-koro tè tugu, a ka gyu-tigè kursi-tigi lo, a bè kà-mbere<anchor xml:id="A012" corresp="#N012"/>. A ka sye-ko a kwo, a tarha ra Sanàkoro ra, a ka a fô Sanàkoro-nga ye : « Ar ka m va farha, ar ka n na mina, ar ka a ta ka tarha Burama fè-so, a bè a gyô. Aluru ar tarha
+					La mi na Samori bilà-koro tè tugu, a ka gyu-tigè kursi-tigi lo, a bè kà-mbere<anchor xml:id "A012" corresp="#N012". A ka sye-ko a kwo, a tarha ra Sanàkoro ra, a ka a fô Sanàkoro-nga ye : « Ar ka m va farha, ar ka n na mina, ar ka a ta ka tarha Burama fè-so, a bè a gyô. Aluru ar tarha
 					ka sorô, ar Burama dari a n na to. » Sanàkoro morhô-ru ar ka a fô a ye. « E gyô-ne lo? fôndô tè i fè : mune-kato ani tarha ka e ko-ma fô Burama ye? » La mi na Samori kasi ra dyugu-kè.
 				</ab>
 				<ab>
