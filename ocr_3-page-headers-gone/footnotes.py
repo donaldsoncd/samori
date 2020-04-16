@@ -39,28 +39,28 @@ with open(filename, 'r') as inputFile:
         
         # Split off the footnote section of the page
         footNoteSection = pageParts[1:]
+        proseSection = pageParts[0]
         
         # Reinsert the markdown header
         output += "### " + str(pageNumber) + "\n\n"
         
-        # Output the page's text proper
-        output += pageParts[0] + "\n\n"
+        # Output the page's text proper with potential footnote marker's replaced
+        output += proseSection.replace("'.", "[^MDX]").replace("*.", "[^MDX]") + "\n\n"
         
         # Loop through the footnote section and output it in the new format
-        # Store the starting footnote number first
         footnoteNum = 1
-        for footnote in footNoteSection:
-            
-            # footnoteNum = 1
-                            
+        for footnote in footNoteSection[0:-1]:
             output += "[^MD" + str(pageNumber) + "-" + str(footnoteNum) + "]: " + footnote + "\n\n"
             footnoteNum += 1
-    
+        for footnote in footNoteSection[-1:]:
+            output += "[^MD" + str(pageNumber) + "-" + str(footnoteNum) + "]: " + footnote + "\n"
+            footnoteNum += 1
+            
         # Increment page up by one
         pageNumber += 1
     
 # Open an output file and write to it
-    with open("output.txt", "w") as fileOut:
+    with open("output.md", "w") as fileOut:
          fileOut.write(output)
 
 print(">>>>>>> Done!")
