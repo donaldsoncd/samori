@@ -7,6 +7,7 @@ A repo for a Digital Edition of Amadu Kurubari's "History of Samori Toure" from 
 - Write scripts to automatically manipulate and change the original OCR text
   - ~~Remove the page headers and page numbers and make them into markdown headers~~
   - ~~Extract footnotes from prose~~
+  - Clean up and match the semi-automated footnote markers and text.
   
 - Figure out auto-replacements for the modern version of the text
   - <yè> for `yɛ`
