@@ -18,17 +18,19 @@ lineNumber = 0
 with open(filename, 'r') as inputFile:
     print("Working on file: " + filename)
     
+    # Store the starting page
     pageNumber = 147
     
     # Loop through it and make a list of only the page-paragraphs
     for line in inputFile:
         if line.startswith("###"):
             continue
-        elif line == "":
+        elif line == "\n":
             continue
         else:
             pageList.append(line)
     
+        
     # Loop through the list of page-paragraphs 
     for page in pageList:
         
@@ -45,9 +47,11 @@ with open(filename, 'r') as inputFile:
         output += pageParts[0] + "\n\n"
         
         # Loop through the footnote section and output it in the new format
+        # Store the starting footnote number first
+        footnoteNum = 1
         for footnote in footNoteSection:
             
-            footnoteNum = 1
+            # footnoteNum = 1
                             
             output += "[^MD" + str(pageNumber) + "-" + str(footnoteNum) + "]: " + footnote + "\n\n"
             footnoteNum += 1
