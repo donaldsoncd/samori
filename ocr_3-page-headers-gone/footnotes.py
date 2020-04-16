@@ -31,24 +31,30 @@ with open(filename, 'r') as inputFile:
     
     # Loop through the list of page-paragraphs 
     for page in pageList:
+        
         # Split it on the likely footnote marker
         pageParts = re.split("\s\d\.\s", page)
-        
-        # Output the page's text proper
-        output += pageParts[0] + "\n\n"
         
         # Split off the footnote section of the page
         footNoteSection = pageParts[1:]
         
-        footnoteNum = 1
+        # Reinsert the markdown header
+        output += "### " + str(pageNumber) + "\n\n"
+        
+        # Output the page's text proper
+        output += pageParts[0] + "\n\n"
         
         # Loop through the footnote section and output it in the new format
         for footnote in footNoteSection:
+            
+            footnoteNum = 1
+                            
             output += "[^MD" + str(pageNumber) + "-" + str(footnoteNum) + "]: " + footnote + "\n\n"
             footnoteNum += 1
-        
+    
+        # Increment page up by one
         pageNumber += 1
-                
+    
 # Open an output file and write to it
     with open("output.txt", "w") as fileOut:
          fileOut.write(output)
