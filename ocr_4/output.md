@@ -1,6 +1,6 @@
 ### 147
 
-Alimama Samori ko-ma. I. — Samori a gt/u-tigë, a bo-ftya-ra. Bismilldhi 'rrahmdni 'rrahimi. Alhamdu lilldhi rabbi Udlamind. Salla Alldhii ala sayyidina Mohammadi iva ahlihiwa sallama tasli- man[^MDX]. . Ni torho bè Amadu Kurubari, ar ka ni uro Dawakala Gimini ra. Nanzara kyè a Kofidugu sigi a ka ni dari ni ko-ma fô a ye : ali- mama Samori Ibnu-Lafia* ko-ma; n ga a fô a ye:
+Alimama Samori ko-ma. I. — Samori a gt/u-tigë, a bo-ftya-ra. Bismilldhi 'rrahmdni 'rrahimi. Alhamdu lilldhi rabbi Udlamind. Salla Alldhii ala sayyidina Mohammadi iva ahlihiwa sallama tasli- man[^MD147-1]. . Ni torho bè Amadu Kurubari, ar ka ni uro Dawakala Gimini ra. Nanzara kyè a Kofidugu sigi a ka ni dari ni ko-ma fô a ye : ali- mama Samori Ibnu-Lafia* ko-ma; n ga a fô a ye:
 
 [^MD147-1]: Le début de ce récit est en arabe et veut dire : « Au nom de Dieu le Clément, le Miséricordieux. Louange a Dieu le maître des mondes. Que Dieu binisse notre seigneur Mohammed et sa famille et leur donne le salut! »
 
