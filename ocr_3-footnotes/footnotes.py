@@ -47,7 +47,7 @@ with open(filename, 'r') as inputFile:
         
         # Output the page's text proper with potential footnote marker's replaced
         # They are replaced with [^MDX] which can be searched for and edited manually
-        output += proseSection.replace("'.", "[^MDX]").replace("*.", "[^MDX]") + "\n\n"
+        output += proseSection.replace("'.", "[^MDX].").replace("*.", "[^MDX].") + "\n\n"
         
         # Loop through the footnote section and output it in the new format
         # That means something like: [^MD147-1] each on its own separate line
