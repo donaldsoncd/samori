@@ -1,1 +1,0 @@
-I also did some semi-manual (search and replace) of the page headers and numbers that were caught in the prose before figuring out the Python script for footnotes

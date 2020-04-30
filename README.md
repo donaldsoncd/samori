@@ -4,7 +4,7 @@ A repo for a Digital Edition of Amadu Kurubari's "History of Samori Toure" from 
 
 ## To Do
 
-- Write scripts to automatically manipulate and change the original OCR text
+- Write scripts to automatically manipulate and change the original OCR text into a critical markdown format
   - ~~Remove the page headers and page numbers and make them into markdown headers~~
   - ~~Extract footnotes from prose~~
   - Clean up and match the semi-automated footnote markers and text.
@@ -26,4 +26,13 @@ A repo for a Digital Edition of Amadu Kurubari's "History of Samori Toure" from 
   - <lô> for `lɔ́n`
   - <kyè> for `cɛ`
   - <-ra> for `???`
+
+## History of OCR clean up
+
+- Started with the `samori-ocr.txt` file.
+- Separated the French language introduction from the text proper
+- Added markdown page number headers (e.g., `### 149`) using the script `pages.py`
+- Removed original document headers and page numbers that were caught in the text
+  (semi-manually using search and replace in an editor)
+- Partially automated the conversion of Delafosse's footnotes into markdown footnotes using `footnotes.py`
 
